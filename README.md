@@ -1,4 +1,4 @@
-# Assignment 6
+# RSADemo
 
 'keygen' is a c program that can generate public and private keys for
 encryption and decryption. 'encrypt' and 'decrypt' are c program that
